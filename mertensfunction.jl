@@ -94,5 +94,3 @@ function builderMertens(x)
     end
     return total
 end
-
-builderMertens(10^4)
